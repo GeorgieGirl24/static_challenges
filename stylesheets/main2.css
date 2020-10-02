@@ -1,0 +1,95 @@
+#myHeader {
+  background-color: black;
+  color: white;
+  padding: 80px;
+  text-align: left;
+}
+
+#login {
+  background-color: green;
+  color: white;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 40px;
+  float: left;
+  margin: auto;
+  color: white;
+  padding: 12px;
+}
+
+h2 {
+  position: absolute;
+  color: white;
+  width: 100%;
+  font-weight: bold;
+  /* padding-bottom: 500px; */
+}
+
+h3 {
+  padding: 20px;
+  float: center;
+  text-align: left;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+#mainMenu {
+  background-color: blue;
+  text-align: right;
+  color: white;
+}
+
+section {
+  /* position: absolute;
+  width: 100%; */
+  overflow: hidden;
+  display: center;
+  flex-wrap: wrap;
+  /* align-content: auto; */
+  /* padding-left: 20px; */
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 50px;
+  text-decoration: solid;
+  float: right;
+}
+
+figure {
+  display: block;
+  width: 30%;
+  padding-right: 40px;
+  margin-left: 30px;
+  float: center;
+}
+
+article {
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+/* aside {
+  display: block;
+  width: 30%;
+  padding-right: 40px;
+  margin-left: 30px;
+  float: center;
+  background-color: white;
+} */
