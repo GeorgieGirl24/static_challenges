@@ -1,0 +1,78 @@
+
+#login {
+  background-color: green;
+  color: white;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 40px;
+  float: left;
+  margin: auto;
+  color: white;
+  padding: 12px;
+}
+
+h2 {
+  position: absolute;
+  color: black;
+  width: 100%;
+  font-weight: bold;
+}
+
+h3 {
+  padding: 20px;
+  float: center;
+  text-align: left;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+nav {
+  text-align: center;
+}
+
+#mainMenu {
+  background-color: blue;
+  text-align: right;
+  color: white;
+}
+
+section {
+  overflow: hidden;
+  display: center;
+  flex-wrap: wrap;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 50px;
+  float: right;
+}
+
+figure {
+  display: block;
+  width: 100%;
+  padding-right: 40px;
+  margin-left: 30px;
+}
+
+article {
+  background-color: black;
+  color: white;
+  padding: 30px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
