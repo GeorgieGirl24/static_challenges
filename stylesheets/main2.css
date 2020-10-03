@@ -1,9 +1,9 @@
-#myHeader {
+/* #myHeader {
   background-color: black;
   color: white;
   padding: 80px;
   text-align: left;
-}
+} */
 
 #login {
   background-color: green;
@@ -21,10 +21,9 @@ h1 {
 
 h2 {
   position: absolute;
-  color: white;
+  color: black;
   width: 100%;
   font-weight: bold;
-  /* padding-bottom: 500px; */
 }
 
 h3 {
@@ -42,6 +41,10 @@ ul {
   overflow: hidden;
 }
 
+nav {
+  text-align: center;
+}
+
 #mainMenu {
   background-color: blue;
   text-align: right;
@@ -49,29 +52,23 @@ ul {
 }
 
 section {
-  /* position: absolute;
-  width: 100%; */
   overflow: hidden;
   display: center;
   flex-wrap: wrap;
-  /* align-content: auto; */
-  /* padding-left: 20px; */
 }
 li a {
   display: block;
   color: white;
   text-align: center;
   padding: 50px;
-  text-decoration: solid;
   float: right;
 }
 
 figure {
   display: block;
-  width: 30%;
+  width: 100%;
   padding-right: 40px;
   margin-left: 30px;
-  float: center;
 }
 
 article {
@@ -85,11 +82,3 @@ footer {
   color: white;
   padding: 20px;
 }
-/* aside {
-  display: block;
-  width: 30%;
-  padding-right: 40px;
-  margin-left: 30px;
-  float: center;
-  background-color: white;
-} */
